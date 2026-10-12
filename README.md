@@ -12,7 +12,8 @@
 | **GitHub** | [https://github.com/your-account](https://github.com/your-account) |
 
 ### 📷 個人照片
-![個人照片](image/image1.jpg)
+<img width="500" height="500" alt="540x" src="https://github.com/user-attachments/assets/f0a07565-d232-4cad-9397-31b98cbcb96f" />
+
 
 ---
 
