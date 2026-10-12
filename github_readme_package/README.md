@@ -12,7 +12,10 @@
 | **GitHub** | [https://github.com/your-account](https://github.com/your-account) |
 
 ### 📷 個人照片
-![個人照片](imageimage1.jpg.jfif)
+![個人照片](imageimage1.jpg.jfif)<img width="500" height="500" alt="540x" src="https://github.com/user-attachments/assets/9444916d-1212-4f2e-b945-7b9ccb57b077" />
+
+
+
 
 ---
 
